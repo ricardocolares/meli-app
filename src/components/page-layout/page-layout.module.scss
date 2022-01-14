@@ -1,0 +1,10 @@
+.main {
+  background: var(--color-gray--100);
+  margin: 0 10px 32px;
+
+  &__wrapper {
+    max-width: 1180px;
+    margin: 0 auto;
+    border-radius: 4px;
+  }
+}
